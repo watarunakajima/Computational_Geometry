@@ -106,7 +106,6 @@ public class GrahamScan extends JPanel{
     }
 
 }
-
 class Point{//点の座標を表す
     private int x;
     private int y;
